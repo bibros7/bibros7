@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bibros</h1>
-<h3 align="center">A passionate Student of cybersécurity</h3>
+<h3 align="center">A passionate Student of cybersecurity</h3>
 
-- 🌱 I’m currently learning **Python,Node.JS,Java**
+- 🌱 I’m currently learning **Python, Node.JS, Java**
 
-- 💬 Ask me about **Docker,Linux,Debian,Ubuntu,mySQL**
+- 💬 Ask me about **Docker, Linux, Debian, Ubuntu, MySQL**
 
 - 📫 How to reach me **bensassibibros@gmail.com**
 
